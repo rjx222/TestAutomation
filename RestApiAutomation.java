@@ -1,18 +1,18 @@
-pom.xml
+// pom.xml
 
-<dependency>
-<groupId>io.rest-assured</ groupId>
-<artifactId> rest-assured</artifactId>
-<version>5.3.0</version>
-</dependency>
-<dependency>
-<groupId>org.testng</ groupId>
-<artifactId>testng</artifactId>
-<version>7.7.1</version>
-</dependency>
+// <dependency>
+// <groupId>io.rest-assured</ groupId>
+// <artifactId> rest-assured</artifactId>
+// <version>5.3.0</version>
+// </dependency>
+// <dependency>
+// <groupId>org.testng</ groupId>
+// <artifactId>testng</artifactId>
+// <version>7.7.1</version>
+// </dependency>
 
 
-Automation code
+// Automation code
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
