@@ -1,18 +1,18 @@
-Prerequesites:
+// Prerequesites:
 
-Add selenium dependencies in pom.xml file using Maven
-Pom.xml file
-<dependency>
-<groupId>org.seleniumhq.selenium</ groupId>
-<artifactId>selenium-java</artifactId>
-<version>4.9.0</version>
-</dependency>
-<dependency>
-<groupId>org.seleniumhq.selenium</ groupId>
-<artifactId>selenium-chrome-driver</artifactId>
-<version>4.9.0</version></dependency>
+// Add selenium dependencies in pom.xml file using Maven
+// Pom.xml file
+// <dependency>
+// <groupId>org.seleniumhq.selenium</ groupId>
+// <artifactId>selenium-java</artifactId>
+// <version>4.9.0</version>
+// </dependency>
+// <dependency>
+// <groupId>org.seleniumhq.selenium</ groupId>
+// <artifactId>selenium-chrome-driver</artifactId>
+// <version>4.9.0</version></dependency>
 
-Automation code implementation
+// Automation code implementation
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
