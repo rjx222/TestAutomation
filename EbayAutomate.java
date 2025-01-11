@@ -1,4 +1,3 @@
-// Prerequesites:
 
 // Add selenium dependencies in pom.xml file using Maven
 // Pom.xml file
