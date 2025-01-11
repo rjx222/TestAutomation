@@ -1,5 +1,4 @@
-// pom.xml
-
+// update dependency in pom.xml
 // <dependency>
 // <groupId>io.rest-assured</ groupId>
 // <artifactId> rest-assured</artifactId>
